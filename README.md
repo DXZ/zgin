@@ -1,2 +1,2 @@
 # zgin
-gin tool
+tools for gin
